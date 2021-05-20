@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harry79ph
 - 👀 I’m interested in Web Development
-- 🌱 I’m always learning because I love new things
+- 🌱 I love learning new things
 - 💞️ I’m looking to collaborate on a cool project
 
 

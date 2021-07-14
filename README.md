@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I love learning new things
 - 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me hmakinist@hotmail.com
 
 
 <!---

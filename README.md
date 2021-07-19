@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harry79ph
 - 👀 I’m interested in Web Development
-- 🌱 I love JavaScript and learning new things
+- 🌱 I love JavaScript and learning related technologies
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me hmakinist@hotmail.com
 

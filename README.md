@@ -1,4 +1,4 @@
-- 👋I'm Hayrettin, a detail-oriented Front-End Web Developer based in London
+- 👋I'm Harry, a passionate web developer based in London. I specialize in modern, responsive websites & web applications.
 - 🌱 I love JavaScript and learning related technologies
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

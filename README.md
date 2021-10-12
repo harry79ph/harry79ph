@@ -16,7 +16,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ---
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/hayrettin-etci-5273461aa/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/hayrettin-etci/)
 
 
 <!---
